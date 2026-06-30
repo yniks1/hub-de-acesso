@@ -108,7 +108,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 60px 50px;
+    padding: 60px 50px 20px 50px; 
     background: linear-gradient(180deg, #f0f7ff 0%, #ffffff 100%);
     min-height: 500px;
 }
@@ -291,7 +291,7 @@ body {
 }
 
 .provas-section {
-    padding: 60px 50px;
+    padding: 20px 50px 60px 50px;
     background-color: var(--bg-secondary);
 }
 
